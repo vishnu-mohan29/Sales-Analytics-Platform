@@ -214,13 +214,7 @@ Execution time: ~36 seconds.
 |dim_date|1237|
 |fact_sales|9994|
 
-# Installation
 
-```bash
-git clone <repository-url>
-cd Sales-Analytics-Platform
-pip install -r requirements.txt
-```
 
 Configure PostgreSQL connection in `db_connection.py`.
 
@@ -235,12 +229,12 @@ Open the Power BI report after successful loading.
 # Screenshots
 
 ## Executive Dashboard
-> Add dashboard screenshot here.
+> https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/Screenshot%20(207).png
 
 ## Star Schema
-> Add PostgreSQL schema screenshot.
+> https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/Screenshot%20(208).png
 
-## SQL Output
+## SQL(https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/business_analysis.sql)
 > Add SQL query screenshots.
 
 ## Automation Log
