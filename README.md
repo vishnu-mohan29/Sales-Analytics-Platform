@@ -229,16 +229,21 @@ Open the Power BI report after successful loading.
 # Screenshots
 
 ## Executive Dashboard
-> https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/Screenshot%20(207).png
+> ![Executive\_ Dashboard](https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/Screenshot%20(207).png)
 
 ## Star Schema
-> https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/Screenshot%20(208).png
+> ![Star\_Schema](https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/Screenshot%20(208).png)
 
-## SQL(https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/business_analysis.sql)
+
+# ##  ![SQL analysis](https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/business_analysis.sql)
+
 > Add SQL query screenshots.
+>  ![SQL\_analysis](https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/Screenshot%20(211).png)
+
 
 ## Automation Log
-> Add execution log screenshot.
+> > ![Automation\_Log](https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/Screenshot%20(210).png)
+
 
 # Sample Python
 
