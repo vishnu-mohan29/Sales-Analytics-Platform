@@ -30,7 +30,7 @@
 21. Skills Demonstrated
 22. Results
 23. Future Improvements
-24. Contact
+
 
 # Project Overview
 This project simulates a real-world Sales Analytics Platform that automates the complete workflow from raw Excel sales data to an executive Power BI dashboard. The solution includes data cleaning, feature engineering, dimensional modeling, ETL automation, SQL analytics, and dashboard reporting.
