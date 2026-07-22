@@ -232,6 +232,8 @@ Open the Power BI report after successful loading.
 > ![Executive\_ Dashboard](https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/Screenshot%20(207).png)
 
 ## Star Schema
+> ![Star\_Schema](https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/Screenshot%20(213).png)
+
 > ![Star\_Schema](https://github.com/vishnu-mohan29/Sales-Analytics-Platform/blob/main/Screenshot%20(208).png)
 
 
